@@ -1,18 +1,18 @@
 # Reading Notes
-## **I do not know what this website do yet**
-- ## *Code 102* - Intro to Software Development
-- ## *Code 201* - Foundations of Software Development
-- ## *Code 301* - Intermediate Software Development
-- ## *Code 401* - Advanced Software Development
+**In this website you will find all reading note for 401 level Advanced Software Development, for each level you will find the title and the table of content for the level**
 
+## Code 401 - level Advanced Software Development
+|N |  Content |
+| ------------ | -------------|
+| 1  | [Read: Class-01](./Code401/class-01.md)|
 
 ## Table Of Content: ##
  | Syntax      | Description |    
 | :---        |    :----:   |          
-| DataStructure      | [datastructure](./stracture.md)       
-| EngineerReading   | [Engineering Reading](./engineer.md)         
-|SQL| [SQL](./sql.png)
-|Command Line | [The command Line](./command.md)
-|Growth Mindset | [Growth Mindset](./mindset.md)
+| DataStructure      | [datastructure](./prep/stracture.md)       
+| EngineerReading   | [Engineering Reading](./prep/engineer.md)         
+|SQL| [SQL](./prep/sql.png)
+|Command Line | [The command Line](./prep/command.md)
+|Growth Mindset | [Growth Mindset](./prep/mindset.md)
 
 `ASEEL BDOOR`
