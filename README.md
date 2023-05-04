@@ -6,6 +6,7 @@
 | ------------ | -------------|
 | 1  | [Read: Class-01](./Code401/class-01.md)|
 | 2  | [Read: Class-02](./Code401/class-02.md)|
+| 3  | [Read: Class-03](./Code401/class-03.md)|
 
 ## Table Of Content: ##
  | Syntax      | Description |    
