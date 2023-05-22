@@ -3,7 +3,7 @@
 
 ## Code 401 - level Advanced Software Development
 |N|Content|
-|------------|-------------|
+|:------------|:-------------|
 |1|[Read: Class-01](./Code401/class-01.md)|
 |2|[Read: Class-02](./Code401/class-02.md)|
 |3|[Read: Class-03](./Code401/class-03.md)|
@@ -12,10 +12,12 @@
 |6|[Read: Class-06](./Code401/class-06.md)|
 |7|[Read: Class-07](./Code401/class-07.md)|
 |8|[Read: Class-08](./Code401/class-08.md)|
+|9|[Read: Class-09](./Code401/class-09.md)|
+|10|[Read: Class-10](./Code401/class-10.md)|
 
 ## Table Of Content: ##
  | Syntax      | Description |    
-| :---        |    :----:   |          
+| :---      |    :----  |          
 | DataStructure      | [datastructure](./prep/stracture.md)       
 | EngineerReading   | [Engineering Reading](./prep/engineer.md)         
 |SQL| [SQL](./prep/sql.png)
