@@ -17,6 +17,7 @@
 |11|[Read: Class-11](./Code401/class-11.md)|
 |12|[Read: Class-12](./Code401/class-12.md)|
 |13|[Read: Class-13](./Code401/class-13.md)|
+|14|[Read: Class-14](./Code401/class-14.md)|
 
 ## Table Of Content: ##
  | Syntax      | Description |    
