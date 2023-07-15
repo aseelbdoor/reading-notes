@@ -23,6 +23,7 @@
 |17|[Read: Class-17](./Code401/class-17.md)|
 |18|[Read: Class-26](./Code401/class-26.md)|
 |19|[Read: Class-27](./Code401/class-27.md)|
+|20|[Read: Class-28](./Code401/class-28.md)|
 
 ## Table Of Content: ##
  | Syntax      | Description |    
