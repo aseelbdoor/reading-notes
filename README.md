@@ -16,6 +16,18 @@
 |10|[Read: Class-10](./Code401/class-10.md)|
 |11|[Read: Class-11](./Code401/class-11.md)|
 |12|[Read: Class-12](./Code401/class-12.md)|
+|13|[Read: Class-13](./Code401/class-13.md)|
+|14|[Read: Class-14](./Code401/class-14.md)|
+|15|[Read: Class-15](./Code401/class-15.md)|
+|16|[Read: Class-16](./Code401/class-16.md)|
+|17|[Read: Class-17](./Code401/class-17.md)|
+|18|[Read: Class-26](./Code401/class-26.md)|
+|19|[Read: Class-27](./Code401/class-27.md)|
+|20|[Read: Class-28](./Code401/class-28.md)|
+|21|[Read: Class-29](./Code401/class-29.md)|
+|22|[Read: Class-30](./Code401/class-30.md)|
+|23|[Read: Class-31](./Code401/class-31.md)|
+|24|[Read: Class-32](./Code401/class-32.md)|
 
 ## Table Of Content: ##
  | Syntax      | Description |    
