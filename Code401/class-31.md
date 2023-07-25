@@ -110,7 +110,7 @@ Authentication and Permissions:
 Django: Django provides built-in authentication and permissions mechanisms for web applications. These mechanisms are designed primarily for authenticating and authorizing users accessing web pages and views.
 
 Django REST framework: DRF extends Django's authentication and permissions to handle API-specific scenarios. DRF includes various authentication classes, such as Token Authentication and JWT Authentication, which are more suitable for API authentication. Similarly, DRF provides fine-grained permissions classes to control access to API endpoints based on the user's roles and permissions.
-
+```
 Response Formats:
 
 Django: By default, Django primarily serves HTML content to web clients.
