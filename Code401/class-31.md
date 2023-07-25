@@ -74,7 +74,7 @@ Create a folder named static inside your app directory.
 
 Place your static files (CSS, JavaScript, images, etc.) inside the static folder.
 
-In your templates, load the static files using Django's {% static %} template tag.
+In your templates, load the static files using Django's template tag.
 
 Step 7: Run the Development Server
 
