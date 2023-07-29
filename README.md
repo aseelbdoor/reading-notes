@@ -28,6 +28,7 @@
 |22|[Read: Class-30](./Code401/class-30.md)|
 |23|[Read: Class-31](./Code401/class-31.md)|
 |24|[Read: Class-32](./Code401/class-32.md)|
+|25|[Read: Class-33](./Code401/class-33.md)|
 
 ## Table Of Content: ##
  | Syntax      | Description |    
